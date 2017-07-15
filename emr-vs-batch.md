@@ -1,7 +1,7 @@
 # EMR vs. AWS Batch
 
 | [EMR](https://aws.amazon.com/emr/) | [Batch](https://aws.amazon.com/batch/) |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---|---|
 | Data-oriented | Process-oriented |
 | Massively parallel "big data" processing: `Data lake ==> Parallel processing in cluster ==> Output data` | Executes jobs on machines without manual intervention where jobs can depend on other jobs or availability of input (sequencing & scheduling matters) |
 | EMR supports Spark which can handle batch processing, stream processing, interactive queries, etc. | Handles only batch jobs; does not support streaming or interactive processing |
