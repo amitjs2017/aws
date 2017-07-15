@@ -4,6 +4,9 @@
 - AWS Certified Developer - Associate (Mar 2016)
 - AWS Certified SysOps Administrator - Associate (Mar 2016)
 
+### My AWS gists
+- See [Gists](https://gist.github.com/niranjv)
+
 ### My AWS Projects
 
 - See [Issues page](https://github.com/niranjv/aws/issues) for a list of some of my AWS projects
